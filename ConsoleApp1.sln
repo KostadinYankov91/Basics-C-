@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrainingRoom", "TrainingRoom\TrainingRoom.csproj", "{92563E85-BCD4-4341-A9E6-5A25B5DCB82E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calories", "Calories\Calories.csproj", "{5254298A-9BE8-4310-8DAF-603A712828BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishStore", "FishStore\FishStore.csproj", "{33989BE0-E771-4223-ADDA-B1D6E7C940B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92563E85-BCD4-4341-A9E6-5A25B5DCB82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92563E85-BCD4-4341-A9E6-5A25B5DCB82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92563E85-BCD4-4341-A9E6-5A25B5DCB82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92563E85-BCD4-4341-A9E6-5A25B5DCB82E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5254298A-9BE8-4310-8DAF-603A712828BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5254298A-9BE8-4310-8DAF-603A712828BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5254298A-9BE8-4310-8DAF-603A712828BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5254298A-9BE8-4310-8DAF-603A712828BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33989BE0-E771-4223-ADDA-B1D6E7C940B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33989BE0-E771-4223-ADDA-B1D6E7C940B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33989BE0-E771-4223-ADDA-B1D6E7C940B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33989BE0-E771-4223-ADDA-B1D6E7C940B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B6991EA-243E-4A11-9624-7500AB676E82}
+	EndGlobalSection
+EndGlobal
