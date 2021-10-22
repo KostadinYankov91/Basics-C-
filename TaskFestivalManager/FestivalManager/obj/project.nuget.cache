@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9A8meZDTRHnU4qspE7HBuUpaZVTx7B7e4YZiURFGSz/Xnnrr5MotdWtQJ0RE8T+QPXmpu6bgcb3oqjuIEDFCxA==",
+  "success": true,
+  "projectFilePath": "E:\\VIsualStudio\\OOPPracticeExams\\FestivalManager\\FestivalManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Voidlook\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Voidlook\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Voidlook\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Voidlook\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Voidlook\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Voidlook\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
