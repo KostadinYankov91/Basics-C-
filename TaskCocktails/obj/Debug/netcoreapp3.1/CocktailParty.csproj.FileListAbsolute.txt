@@ -1,0 +1,13 @@
+E:\VIsualStudio\retakeAdvanced\bin\Debug\netcoreapp3.1\CocktailParty.exe
+E:\VIsualStudio\retakeAdvanced\bin\Debug\netcoreapp3.1\CocktailParty.deps.json
+E:\VIsualStudio\retakeAdvanced\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.json
+E:\VIsualStudio\retakeAdvanced\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.dev.json
+E:\VIsualStudio\retakeAdvanced\bin\Debug\netcoreapp3.1\CocktailParty.dll
+E:\VIsualStudio\retakeAdvanced\bin\Debug\netcoreapp3.1\CocktailParty.pdb
+E:\VIsualStudio\retakeAdvanced\obj\Debug\netcoreapp3.1\CocktailParty.csprojAssemblyReference.cache
+E:\VIsualStudio\retakeAdvanced\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfoInputs.cache
+E:\VIsualStudio\retakeAdvanced\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfo.cs
+E:\VIsualStudio\retakeAdvanced\obj\Debug\netcoreapp3.1\CocktailParty.csproj.CoreCompileInputs.cache
+E:\VIsualStudio\retakeAdvanced\obj\Debug\netcoreapp3.1\CocktailParty.dll
+E:\VIsualStudio\retakeAdvanced\obj\Debug\netcoreapp3.1\CocktailParty.pdb
+E:\VIsualStudio\retakeAdvanced\obj\Debug\netcoreapp3.1\CocktailParty.genruntimeconfig.cache

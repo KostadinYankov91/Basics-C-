@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Voidlook\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Voidlook\\.nuget\\packages"
+    ]
+  }
+}
