@@ -1,0 +1,13 @@
+E:\VIsualStudio\OOPRetakeUnit\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+E:\VIsualStudio\OOPRetakeUnit\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+E:\VIsualStudio\OOPRetakeUnit\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+E:\VIsualStudio\OOPRetakeUnit\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+E:\VIsualStudio\OOPRetakeUnit\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+E:\VIsualStudio\OOPRetakeUnit\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+E:\VIsualStudio\OOPRetakeUnit\Presents\obj\Debug\netcoreapp3.0\Presents.csprojAssemblyReference.cache
+E:\VIsualStudio\OOPRetakeUnit\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+E:\VIsualStudio\OOPRetakeUnit\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+E:\VIsualStudio\OOPRetakeUnit\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+E:\VIsualStudio\OOPRetakeUnit\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+E:\VIsualStudio\OOPRetakeUnit\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+E:\VIsualStudio\OOPRetakeUnit\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache
