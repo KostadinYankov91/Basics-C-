@@ -1,0 +1,4 @@
+E:\VIsualStudio\StudentsDB\obj\Debug\netcoreapp3.1\StudentsDB.csprojAssemblyReference.cache
+E:\VIsualStudio\StudentsDB\obj\Debug\netcoreapp3.1\StudentsDB.AssemblyInfoInputs.cache
+E:\VIsualStudio\StudentsDB\obj\Debug\netcoreapp3.1\StudentsDB.AssemblyInfo.cs
+E:\VIsualStudio\StudentsDB\obj\Debug\netcoreapp3.1\StudentsDB.csproj.CoreCompileInputs.cache
