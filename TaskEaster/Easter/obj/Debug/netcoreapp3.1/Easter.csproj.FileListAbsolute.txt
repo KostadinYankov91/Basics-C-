@@ -1,0 +1,13 @@
+E:\VIsualStudio\OOPRetake\Easter\bin\Debug\netcoreapp3.1\Easter.exe
+E:\VIsualStudio\OOPRetake\Easter\bin\Debug\netcoreapp3.1\Easter.deps.json
+E:\VIsualStudio\OOPRetake\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.json
+E:\VIsualStudio\OOPRetake\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.dev.json
+E:\VIsualStudio\OOPRetake\Easter\bin\Debug\netcoreapp3.1\Easter.dll
+E:\VIsualStudio\OOPRetake\Easter\bin\Debug\netcoreapp3.1\Easter.pdb
+E:\VIsualStudio\OOPRetake\Easter\obj\Debug\netcoreapp3.1\Easter.csprojAssemblyReference.cache
+E:\VIsualStudio\OOPRetake\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfoInputs.cache
+E:\VIsualStudio\OOPRetake\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfo.cs
+E:\VIsualStudio\OOPRetake\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.CoreCompileInputs.cache
+E:\VIsualStudio\OOPRetake\Easter\obj\Debug\netcoreapp3.1\Easter.dll
+E:\VIsualStudio\OOPRetake\Easter\obj\Debug\netcoreapp3.1\Easter.pdb
+E:\VIsualStudio\OOPRetake\Easter\obj\Debug\netcoreapp3.1\Easter.genruntimeconfig.cache
